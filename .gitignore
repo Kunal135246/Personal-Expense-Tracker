@@ -1,0 +1,4 @@
+expense_tracker
+expense_tracker.exe
+*.o
+expense_data.txt
